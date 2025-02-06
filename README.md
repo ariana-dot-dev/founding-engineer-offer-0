@@ -1,43 +1,40 @@
-# R&D Engineer Internship - DEDALE
+# Founding Engineer - DEDALE
 
 ![image](https://github.com/user-attachments/assets/ba0fdb3b-7bc6-4c56-a184-d1368590c855)
 
 - Company: Dedale AI, Corp
 - Website: https://dedale.dev
-- Location: on-site, Paris intra-muros (13th district for now, we may change district by then)
-- Duration: 8 to 14 weeks in-between early May and the end of August
-- Compensation: 1k€ (brut) per month
+- Location: on-site Paris or on-site San Francisco (or remote in rare cases)
+- Generous compensation depending on location
+- Generous equity package
 - Stack: Rust, Typescript, React, (C++, Svelte, Vue, Python appreciated)
-- Skills: Algorithms, Backend, Frontend, AI (you might not have all of that because we will teach you)
-- Perks: -50% Navigo
-
-## How to Apply
-
-Send us by [email](mailto:an.nougaret@gmail.com):
-- Minimal Resume (can be just a .txt file) with preferably: what projects you worked on, what tech jobs you had, what education you have
-- Your GitHub account
-- Describe within less than 10 sentences what is the one most impressive thing (technically, artistically or other) that you have done in your life.
+- Skills: Algorithms, Backend, Frontend, LLMs
+- Benefits: Generous insurance, public transport stipend, meal stipend & gym stipends (all depending on location)
 
 ## About you
 
-From 0 to BAC+10, all that matters is:
+Software Engineer with 3+ years of experience or junior with exceptional abilities:
 - Impressive will to learn and build
-- Impressive tech skills for where you're at
-- Can work on-site in Paris as an intern
+- Impressive & versatile tech skills
+- Ability to ship fast & let your ego aside
 - Motivated by joining a early-stage startup adventure
 - Great English fluency (French does not matter)
 
 ## What you will do & learn
 
-As an intern you will most likely be amongst the first people to join us. You will be directly mentored by our CTO, Anicet. 
+You will be deeply involved in inventing the first robust AI augmented debugging tool. Depending on your technical interests, you will own major technical parts of the stack, for example:
+- CLI utilities in rust that use AI agents & classic algorithms to explore large codebases
+- fast backend systems in rust that can store & search massive graphs of debugging data
+- beautiful React based VsCode extensions that help developpers explore code as if it was a game
+- specialized LLMs able to run on laptops that you'll train to extract useful information from code
 
-You will join at a early, critical & exciting period in the startup life (that we call "pre-PMF", where we raise money, hire first employees, secure first customers), that will teach you a ton about how launching a nascent startup works, and how to go from 0 to 1 technically. This could prove more valuable than a MBA or technical degree at a top school.
+Furthermore, you will join at a early, critical & exciting period in the startup life (that we call "pre-PMF", where we raise money, hire first employees, secure first customers), that will teach you a ton about how launching a nascent startup works, and how to ship fast.
 
-We only want technical people with the most potential to learn and grow with us. If you join, we will teach you all that you want to learn and that we know about: AI, rust, typescript, web programming, systems programming, software architecture & best practices, business, startups, funding.
+We only want technical people with the most potential to learn and grow with us.
 
 A fixed AI full-stack software project will be agreed upon with you before the beginning. Your typical days will be 1/2 hour 1:1 mentoring with our CTO, 2 hours autonomous learning, 4 hours working on your project & report.
 
-If we like both your human side and work side we will gladly allow you to join as an employee and help you relocate to San Francisco as we will ourselves move there after your internship. (No worries, the full internship will be in Paris with always at least one founder on-site).
+If working from Paris or remote we will help you relocate to San Francisco.
 
 ## Our mission
 
@@ -48,20 +45,30 @@ Code understanding tasks (review, troubleshooting, onboarding) are 75% of the ti
  
 We founded the company in early January this year. We raised a pre-seed investment from Entrepreneur First, one of the best incubator and investor in the international startup scene. We have already released a first version of our product, and in the following months we aim to onboard paid customers, raise a seed round and prepare to relocate to San Francisco.
 
+## How to Apply
+
+Send us by [email](mailto:an.nougaret@gmail.com):
+- Minimal Resume (can be just a .txt file) with preferably: what projects you worked on, what tech jobs you had, what education you have
+- Your GitHub account
+- Describe within less than 10 sentences what is the one most impressive thing (technically) that you have done in your life.
+
 ## Application process
 
 1. Immediate Positive or Negative answer
 2. If positive, short call with our CTO, Anicet (tech & non-tech questions, no coding required)
-3. Short call with our CEO, Isaline
-4. Call again with Anicet
-5. Feedback whether fail or success
-6. Offer hopefully :)
+3. Short take home assignment
+4. Call again with Anicet to discuss your assignment
+5. Short call with our CEO, Isaline
+6. Meet us on site in Paris or San Francisco if possible
+7. Feedback whether fail or success
+8. Offer hopefully :)
 
 ## About us
 
 Anicet Nougaret (www.linkedin.com/in/anicet-nougaret-b7846b174): 
-- Grad. IUT Informatique Paris Rives de Seine
-- Eng. INSA Lyon Informatique
+- Grad. Software Engineering bachelor at Paris Rives de Seine
+- Eng. Software Engineering at INSA Lyon
+- 3rd time founder
 - Prev. Data Science (black holes detection) at the European Space Agency
 
 Isaline Goudeau (https://www.linkedin.com/in/isaline-goudeau-5a1b4a163/)
