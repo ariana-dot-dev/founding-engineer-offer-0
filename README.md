@@ -30,10 +30,6 @@ You will be deeply involved in inventing the first robust AI augmented debugging
 
 Furthermore, you will join at a early, critical & exciting period in the startup life (that we call "pre-PMF", where we raise money, hire first employees, secure first customers), that will teach you a ton about how launching a nascent startup works, and how to ship fast.
 
-We only want technical people with the most potential to learn and grow with us.
-
-A fixed AI full-stack software project will be agreed upon with you before the beginning. Your typical days will be 1/2 hour 1:1 mentoring with our CTO, 2 hours autonomous learning, 4 hours working on your project & report.
-
 If working from Paris or remote we will help you relocate to San Francisco.
 
 ## Our mission
