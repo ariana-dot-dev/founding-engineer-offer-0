@@ -9,7 +9,7 @@
 - Generous equity package
 - Stack: Rust, Typescript, React, (C++, Svelte, Vue, Python appreciated)
 - Skills: Algorithms, Backend, Frontend, LLMs
-- Benefits: Generous insurance, public transport stipend, meal stipend & gym stipends (all depending on location)
+- Benefits: Generous insurance, public transport stipend, meal stipend & gym stipend (all depending on location)
 
 ## About you
 
