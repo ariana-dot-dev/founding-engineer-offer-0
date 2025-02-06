@@ -32,10 +32,10 @@ Furthermore, you will join at a early, critical & exciting period in the startup
 
 If working from Paris or remote we will help you relocate to San Francisco.
 
-## Our mission
+## Our vision
 
 We thrive to make software & AI tools that make developers and other code-adjacent roles (PMs, researchers, security auditors...) way more efficient at understanding code.
-Code understanding tasks (review, troubleshooting, onboarding) are 75% of the time spent by pro developers. We see a future in 2 to 5 years were most code will be AI generated and developers' role will fully shift to theses code understanding tasks. We also see a future where the only way for humans to not be enslaved by AI is via their ability to still decipher and understand what AI does, which will probably require understanding a lot of code.
+Code understanding tasks (debugging, review, onboarding) are 75% of the time spent by pro developers. We see a future in 2 to 5 years were most code will be AI generated and developers' role will fully shift to theses code understanding tasks. We also see a future where the only way for humans to not be enslaved by AI is via their ability to still decipher and understand what AI does, which will probably require understanding a lot of code.
 
 ## Story
  
