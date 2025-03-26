@@ -19,6 +19,7 @@ Software Engineer with 3+ years of experience or junior with exceptional abiliti
 - Ability to ship fast & let your ego aside
 - Motivated by joining a early-stage startup adventure
 - Great English fluency (French does not matter)
+- Ability to follow the founding team abroad for months if necessary (We often go to SF)
 
 ## What you will do & learn
 
