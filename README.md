@@ -1,8 +1,7 @@
-# Founding Engineer - DEDALE
+# Founding Engineer - Ariana.dev
 
-![image](https://github.com/user-attachments/assets/ba0fdb3b-7bc6-4c56-a184-d1368590c855)
 
-- Company: Dedale AI, Corp creator of Ariana.dev
+- Company: Ariana.dev
 - Website: https://ariana.dev
 - Location: on-site Paris or on-site San Francisco (or remote in rare cases)
 - Generous compensation depending on location
